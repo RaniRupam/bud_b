@@ -2,9 +2,9 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
-			<item value="D:\STS_PROJECTS\BudgetBoutique\api-gateway-budgetbotique"/>
-			<item value="D:\STS_PROJECTS\BudgetBoutique\expense-management-service"/>
-			<item value="D:\STS_PROJECTS\BudgetBoutique\user-management-service"/>
+			<item value="C:\STS-WorkSpace\BudgetBoutique\BudgetBoutiqueBackend\ApiGateway"/>
+			<item value="C:\STS-WorkSpace\BudgetBoutique\BudgetBoutiqueBackend\ExpenseManagement"/>
+			<item value="C:\STS-WorkSpace\BudgetBoutique\BudgetBoutiqueBackend\UserManagement"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -14,9 +14,5 @@
 			<item value="[groupId].[artifactId]-[version]"/>
 			<item value="[name]"/>
 		</list>
-	</section>
-	<section name="org.eclipse.m2e.core.pom.overview">
-	</section>
-	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
 </section>
